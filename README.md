@@ -1,3 +1,5 @@
 # mY_AcHiEvEmEnTs!
-last one: quick draw
-new achevement yolo again?
+    -pull shark
+    -quick draw
+    -yolo
+last one: pair
